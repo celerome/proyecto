@@ -142,7 +142,7 @@ ul#menu-principal {
 
 }
 #section {
-    height: 50vh;
+    height: 100vh;
     scroll-margin-top: 100px;
 }
 main {
@@ -169,6 +169,19 @@ main {
     padding: 10px;
     color: #0f0f0f;
 }
+
+#github:hover {
+    background-color: rgba(175, 89, 158, 0.3);
+    padding: 10px;
+    color: #0f0f0f;
+}
+
+#linkedin:hover {
+    background-color: rgba(175, 89, 158, 0.3);
+    padding: 10px;
+    color: #0f0f0f;
+}
+
 .logos {
     width: 100px;
     padding: 20px;
